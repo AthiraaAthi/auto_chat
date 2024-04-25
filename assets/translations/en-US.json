@@ -1,0 +1,23 @@
+{
+    "hint_text": "Type a word...",
+    "app_bar_text": "Database UI Demo",
+    "not_found_message": "The searched item is not found in our database",
+    "items": [
+        {
+            "name": "Apple",
+            "description": "Delicious fruit"
+        },
+        {
+            "name": "Orange",
+            "description": "Orange colored fruit"
+        },
+        {
+            "name": "Grapes",
+            "description": "Has vitamins K and C"
+        },
+        {
+            "name": "Banana",
+            "description": "Healthiest fruit"
+        }
+    ]
+}

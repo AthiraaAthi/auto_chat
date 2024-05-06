@@ -18,6 +18,22 @@
         {
             "name": "Banana",
             "description": "Healthiest fruit"
+        },
+        {
+            "name": "Strawberry",
+            "description": "A small, red fruit with tiny seeds on its outer surface. It has a sweet flavor and a juicy texture."
+        },
+        {
+            "name": "Pineapple",
+            "description": "A large tropical fruit with a spiky, rough outer skin and sweet, juicy yellow flesh inside. It has a tangy-sweet flavor."
+        },
+        {
+            "name": "Watermelon",
+            "description": " A large, oblong fruit with a thick green rind and sweet, juicy red flesh dotted with black seeds. It has a refreshing, thirst-quenching taste."
+        },
+        {
+            "name": "Mango",
+            "description": " A tropical fruit with a thin, smooth skin that ranges in color from green to yellow to red. It has juicy, sweet flesh with a rich, aromatic flavor."
         }
     ]
 }
